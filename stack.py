@@ -1,6 +1,6 @@
 # ORGN: CMPS 3500
 # ACTS: Activity 08
-# NAME: Your Name
+# NAME: Moises Gonzalez
 # DESC: Stack simulator with exception handling
 
 MAX_SIZE = 10
